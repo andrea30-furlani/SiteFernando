@@ -28,7 +28,7 @@
   
 <div id="conteudo"> -->
     <?php include "cabecalho.php"; ?>
-        <h1>For</h1>
+        <h1>For significa a abasvbsavhdsbhdsbdbjnjbdfsjbdsjgi </h1>
               
         <div class="p">
         <p>A instrução for cria um loop que consiste em três expressões opcionais, dentro de parênteses e separadas por ponto e vírgula, seguidas por uma declaração ou uma sequência de declarações executadas em sequência.
