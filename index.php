@@ -51,7 +51,7 @@
             <a target="_blank" href="galeria/2.png">
               <img src="galeria/2.png" alt="Cinque Terre">
             </a>
-            <p class="desc">Add a description of the image here</p>
+            <p class="desc">Add a description of the image herea aaaaaa</p>
           </div>
           <div class="galeria">
             <a target="_blank" href="galeria/3.png">
