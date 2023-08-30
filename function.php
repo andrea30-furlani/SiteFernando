@@ -33,7 +33,7 @@
               
         <div class="p">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos cum labore, fugiat nisi voluptatibus aliquam earum odit doloribus! Veniam, voluptatem eveniet mollitia 
-            nulla pariatur laudantium incidunt ipsam deserunt numquam sed?</p>
+            nulla pariatur laudantium incidunt ipsam deserunt numquam sed? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est porro nesciunt libero nostrum maxime exercitationem ab tempore. Hic porro assumenda labore aliquam a numquam maiores, corporis inventore quia vitae magnam.</p>
         </div>
 
         
