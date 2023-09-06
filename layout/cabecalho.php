@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/site/css/style.css">
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
@@ -22,11 +22,11 @@
 
     <div class="nav-bar">
       <a href="index.php" class="active">Home</a>
-      <a href="if.php"><i class="fa fa-fw fa-home"></i>If</a>
-      <a href="for.php"><i class="fa fa-search"></i>For</a>
-      <a href="while.php"><i class="fa fa-envelope"></i>While</a>
-      <a href="function.php"><i class="fa fa-globe"></i>Function</a>
-      <a href="variavel.php"><i class="fa fa-trash"></i>Variavel</a>
+      <a href="/site/aulas/if.php"><i class="fa fa-fw fa-home"></i>If</a>
+      <a href="/site/aulas/for.php"><i class="fa fa-search"></i>For</a>
+      <a href="/site/aulas/while.php"><i class="fa fa-envelope"></i>While</a>
+      <a href="/site/aulas/function.php"><i class="fa fa-globe"></i>Function</a>
+      <a href="/site/aulas/variavel.php"><i class="fa fa-trash"></i>Variavel</a>
     </div>
 
    

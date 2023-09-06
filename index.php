@@ -30,7 +30,7 @@
 
    
     <div id="conteudo"> -->
-    <?php include "cabecalho.php"; ?>
+    <?php include "layout/cabecalho.php"; ?>
       
       <div class="p">
           <h1>Bem vindo ao meu site!</h1>
@@ -49,19 +49,19 @@
         <div class="responsive">
           <div class="galeria">
             <a target="_blank" href="galeria/2.png">
-              <img src="galeria/2.png" alt="Cinque Terre">
+              <img src="galeria/6308.jpg" alt="Cinque Terre" />
             </a>
             <p class="desc">Add a description of the image herea aaaaaa</p>
           </div>
           <div class="galeria">
             <a target="_blank" href="galeria/3.png">
-               <img src="galeria/3.png" alt="Cinque Terre">
+               <img src="galeria/3.png" alt="Cinque Terre"/>
             </a>
             <p class="desc">Add a description of the image here</p>
           </div>
           <div class="galeria">
             <a target="_blank" href="galeria/4.png">
-               <img src="galeria/4.png" alt="Cinque Terre">
+               <img src="galeria/4.png" alt="Cinque Terre"/>
             </a>
             <p class="desc">Add a description of the image here</p>
           </div>
@@ -71,4 +71,4 @@
     </div>
 
 
-    <?php include "rodape.php"; ?>
+    <?php include "layout/rodape.php"; ?>

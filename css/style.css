@@ -116,14 +116,14 @@ body {
 
   display: flex;
   justify-content: space-around;
-  border: 2px solid red;
+  /* border: 2px solid rgb(14, 36, 238); */
 
 }
 
 .galeria {
   border: 1px solid #ccc;
   display: block;
-  border: 2px solid rgb(71, 9, 185);
+  /* border: 2px solid rgb(71, 9, 185); */
 
 }
 
@@ -176,7 +176,7 @@ body {
 .container1 {
   text-align: left;
   padding: 10px;
-  border: 2px solid red;
+  border: 2px solid rgb(55, 13, 241);
 }
 
 .form-group{

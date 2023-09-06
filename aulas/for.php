@@ -27,7 +27,7 @@
 </div>
   
 <div id="conteudo"> -->
-    <?php include "cabecalho.php"; ?>
+    <?php include "../layout/cabecalho.php"; ?>
         <h1>For significa a abasvbsavhdsbhdsbdbjnjbdfsjbdsjgi </h1>
               
         <div class="p">
@@ -55,6 +55,6 @@
 </div>   
 
         
-    <?php include "rodape.php"; ?>
+<?php include "../layout/rodape.php"; ?>
 
 
